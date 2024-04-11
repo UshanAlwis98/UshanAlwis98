@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello! I'm Ushan Loshitha,a passionate web and mobile developer with a deep love for the transformative potential of technology. 
 <!--
 **UshanAlwis98/UshanAlwis98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
