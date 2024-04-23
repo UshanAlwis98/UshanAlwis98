@@ -3,7 +3,7 @@ Hi All,
 - 🔭 I’m currently working on Onlineaccounting.lk<br>
 - 🌱 I’m currently learning MERN Stack.<br>
 - 💬 Ask me about Programming.<br>
-- 📫 How to reach me: ushanloshitha@gmail.com
+- 📫 How to reach me: ushanloshitha@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Ushan Loshitha De Alwis) 
