@@ -1,6 +1,6 @@
-# My Favorite Tools and Technologies ⚙️
+# My favorite tools and technologies ⚙️
 
-## Tools and technologies that I have worked with and am interested in
+### Tools and technologies that I have worked with and am interested in
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -27,6 +27,6 @@
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
 </p>
 
-## GitHub Stats 📊
+## GitHub stats 📊
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
