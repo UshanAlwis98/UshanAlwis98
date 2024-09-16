@@ -6,7 +6,7 @@ Hi All,
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Molindu+here..." alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" /></a><br/>
 <div
       style="
         display: grid;
