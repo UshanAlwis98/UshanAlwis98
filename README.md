@@ -29,7 +29,7 @@ Hi All,
         />
       </a>
       &nbsp;&nbsp;
-      <a href="https://web.telegram.org/k/">
+      <a href="https://telegram.org/dl">
         <img
           src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         />
