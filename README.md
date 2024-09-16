@@ -41,7 +41,7 @@ Hi All,
         />
       </a>
       &nbsp;&nbsp;
-      <a href="https://wa.me/+94783030932">
+      <a href="https://whatsapp.com/dl/">
         <img
           src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
