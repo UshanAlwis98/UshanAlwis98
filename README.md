@@ -154,12 +154,20 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
       <br>Postman
     </td>
             <td align="center" width="96">
- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="swift" width="48" height="48"/>      <br>Node JS
+ <img src="https://skillicons.dev/icons?i=nodejs" alt="swift" width="48" height="48"/>      <br>Node JS
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="dart" />
+      <br>MUI
     </td>
+
+    
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+
+       
   </tr>
  <tr>
  </tr>
