@@ -166,6 +166,10 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 <td align="center" width="96">
  <img src="https://skillicons.dev/icons?i=nextjs" alt="seaborn" width="48" height="48"/> </a>      <br>Next JS
     </td>
+
+<td align="center" width="96">
+ <img src="https://img.icons8.com/color/96/numpy.png" alt="seaborn" width="48" height="48"/> </a>      <br>Numpy
+    </td>
     
        
 
