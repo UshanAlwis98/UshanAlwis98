@@ -56,10 +56,9 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
-
+## Front-end / Back-end / Databases ( SQL or No SQL) / Data Science and Machine Learning
 <table>
 
-<th>Front-end Technologies</th>
 
 <td align="center" width="96">
       <a href="#macropower-tech">
