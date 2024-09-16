@@ -5,20 +5,158 @@ Hi All,
 - 💬 Ask me about Programming.<br>
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Ushan Loshitha De Alwis) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" /></a><br/>
+<div
+      style="
+        display: grid;
+        column-gap: 40px;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        justify-items: start;
+      "
+    >
+      <a href="https://www.instagram.com/rzashakeri/">
+        <img
+          src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
+        <img
+          src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white"
+        />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://twitter.com/SandaruwanWGMA/">
+        <img
+          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+        />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/molindu-achintha/">
+        <img
+          src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
+        />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://web.telegram.org/k/">
+        <img
+          src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+        />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://medium.com/@molinduachintha24">
+        <img
+          src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"
+        />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://wa.me/+94783030932">
+        <img
+          src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+      </a>
+    </div>
+    &nbsp;
+<p align="justify">
+Hello! I'm Ushan Alwis, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UshanAlwis98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## My favorite tools and technologies ⚙️
 
----
-[![](https://visitcount.itsvg.in/api?id=UshanAlwis98&icon=0&color=0)](https://visitcount.itsvg.in)
+> Tools and technologies that I have worked with and am interested in
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="65" height="65" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mui-icon.svg" alt="icon" width="65" height="65" />
+      <br>MUI
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="icon" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" alt="icon" width="65" height="65" />
+      <br>Sklearn
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/matplotlib-icon.svg" alt="icon" width="65" height="65" />
+      <br>Matplotlib
+    </td>
+  </tr>
+</table>
+
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/sandaruwanWGMA/github-readme-stats"><img alt="Ushan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=UshanAlwis98&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+<a href="https://github.com/UshanAlwis98/github-readme-stats"><img alt="Ushan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&layout=compact&langs_count=8" height="192px"/></a>  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UshanAlwis98&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=UshanAlwis98&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
