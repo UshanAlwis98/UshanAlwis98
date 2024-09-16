@@ -1,7 +1,7 @@
 Hi All,
 # 💫 About Me:
-- 🔭 I’m currently working on Onlineaccounting.lk<br>
-- 🌱 I’m currently learning MERN Stack.<br>
+- 🔭 I have worked in Onlineaccounting.lk <br>
+- 🌱 I’m currently learning in university of moratuwa as final year undergraduate.<br>
 - 💬 Ask me about Programming.<br>
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
@@ -59,7 +59,7 @@ Hi All,
     </div>
     &nbsp;
 <p align="justify">
-Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
+Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
 
 </p>
 
@@ -142,8 +142,10 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/> </a>      <br>SK learrn
     </td>
     <td align="center" width="96">
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=expressjs" alt="seaborn" width="48" height="48"/> </a>      <br>Express JS
+ <img src="https://skillicons.dev/icons?i=expressjs" alt="seaborn" width="48" height="48"/> </a>      <br>Express JS
     </td>
+
+      
   </tr>
    <tr>
     <td align="center" width="96">
@@ -153,7 +155,8 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-            <td align="center" width="96">
+
+<td align="center" width="96">
  <img src="https://skillicons.dev/icons?i=nodejs" alt="swift" width="48" height="48"/>      <br>Node JS
     </td>
      <td align="center" width="96">
@@ -161,11 +164,20 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
       <br>MUI
     </td>
 
-    
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+<td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/mongo-db.png" width="48" height="48" alt="Postman" />
+      <br>MongoDB
     </td>
+<td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="48" height="48" alt="Postman" />
+      <br>Power BI
+    </td>
+
+<td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=nextjs" alt="seaborn" width="48" height="48"/> </a>      <br>Next JS
+    </td>
+    
+       
 
        
   </tr>
