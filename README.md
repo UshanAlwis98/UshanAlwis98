@@ -291,10 +291,7 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 ## GitHub Profile Trophy 🏆
 ![](https://github-trophies.vercel.app/?username=sandaruwanWGMA&theme=onedark)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-![](https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UshanAlwis98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true)
