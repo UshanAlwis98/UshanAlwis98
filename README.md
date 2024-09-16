@@ -15,25 +15,15 @@ Hi All,
         justify-items: start;
       "
     >
-      <a href="https://www.instagram.com/rzashakeri/">
-        <img
-          src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-        />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
+     
+<a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
         <img
           src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white"
         />
       </a>
       &nbsp;&nbsp;
-      <a href="https://twitter.com/SandaruwanWGMA/">
-        <img
-          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
-        />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/ushan-loshitha-de-alwis-1959ab237/">
+     
+<a href="https://www.linkedin.com/in/ushan-loshitha-de-alwis-1959ab237/">
         <img
           src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
         />
