@@ -5,7 +5,8 @@ Hi All,
 - 💬 Ask me about Programming.<br>
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" /></a><br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Molindu+here..." alt="Typing SVG" /></a><br/>
 <div
       style="
         display: grid;
@@ -58,7 +59,7 @@ Hi All,
     </div>
     &nbsp;
 <p align="justify">
-Hello! I'm Ushan Alwis, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
+Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
 
 </p>
 
@@ -67,83 +68,161 @@ Hello! I'm Ushan Alwis, a passionate web and mobile developer with a deep love f
 > Tools and technologies that I have worked with and am interested in
 
 <table>
-    <tr>
-
-     <td align="center"  width="96">
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/> </a>       <br>Native
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
         <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-          </a>
-          <br>Python
-        </td>
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>mysql
+    </td>
         <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-          </a>
-          <br>Java
-        </td>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/> </a>
+      <br>Pandas
+    </td>
+            <td align="center" width="96">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/> </a>      <br>SK learrn
+    </td>
+    <td align="center" width="96">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/> </a>      <br>Seaborn
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>      <br>Tensorflow
+    </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-          <br>Javascript
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-          <br>React
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
-          <br>Next.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="65" height="65" />
-          <br>Tailwind CSS
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mui-icon.svg" alt="icon" width="65" height="65" />
-          <br>MUI
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
-          <br>Node.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-          <br>MySQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
-          <br>MongoDB
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-          <br>REST API
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-          <br>GraphQL
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="65" height="65" />
-          <br>TensorFlow
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="icon" width="65" height="65" />
-          <br>Pandas
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" alt="icon" width="65" height="65" />
-          <br>Sklearn
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/matplotlib-icon.svg" alt="icon" width="65" height="65" />
-          <br>Matplotlib
-        </td>
-      </tr>
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+ <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="48" height="48"/>      <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+  </tr>
+ <tr>
+ </tr>
 </table>
+
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/sandaruwanWGMA/github-readme-stats"><img alt="molindu's's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sandaruwanWGMA&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+<a href="https://github.com/sandaruwanWGMA/github-readme-stats"><img alt="molindu's's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwanWGMA&layout=compact&langs_count=8" height="192px"/></a>  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandaruwanWGMA&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sandaruwanWGMA&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/5c5ed914-be28-4fec-b19a-da03c42f9dab.png" /></a>
+  <br/>
+  <br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/db9e2140-aef6-4579-b328-02811e93ad7e.png" /></a>
+</details>
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/rzashakeri/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/tailwarden/komiser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tailwarden&repo=komiser&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+</details>
+
+## Recent GitHub Activity ✅
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandaruwanWGMA&theme=vue"></img>
+
+## GitHub Profile Trophy 🏆
+![](https://github-trophies.vercel.app/?username=sandaruwanWGMA&theme=onedark)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+         
+   
 
 ## Github stats 📊
 
