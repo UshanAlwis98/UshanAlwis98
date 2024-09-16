@@ -173,6 +173,11 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 <td align="center" width="96">
  <img src="https://img.icons8.com/color/96/numpy.png" alt="seaborn" width="48" height="48"/> </a>      <br>Numpy
     </td>
+
+
+<td align="center" width="96">
+ <img src="https://img.icons8.com/color/144/visual-studio-code-2019.png" alt="seaborn" width="48" height="48"/> </a>      <br>Vs Code
+    </td>
     
        
 
