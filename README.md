@@ -142,7 +142,7 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/> </a>      <br>SK learrn
     </td>
     <td align="center" width="96">
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/> </a>      <br>Seaborn
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=expressjs" alt="seaborn" width="48" height="48"/> </a>      <br>Express JS
     </td>
   </tr>
    <tr>
@@ -154,7 +154,7 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
       <br>Postman
     </td>
             <td align="center" width="96">
- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="48" height="48"/>      <br>Swift
+ <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="swift" width="48" height="48"/>      <br>Node JS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
