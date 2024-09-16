@@ -1,7 +1,7 @@
 Hi All,
 # 💫 About Me:
 - 🔭 I have worked in Onlineaccounting.lk <br>
-- 🌱 I’m currently learning in university of **moratuwa** as final year undergraduate.<br>
+- 🌱 I’m currently learning in university of moratuwa as final year undergraduate.<br>
 - 💬 Ask me about Programming.<br>
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
@@ -60,6 +60,7 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 <table>
     <td align="center" width="96">
       <a href="#macropower-tech">
+            ## Front-end Technologies
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
