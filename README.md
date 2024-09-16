@@ -142,7 +142,7 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
   </tr>
    <tr>
     <td align="center" width="96">
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>      <br>Tensorflow
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>      <br>Tensorflow
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
