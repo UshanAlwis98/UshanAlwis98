@@ -45,7 +45,7 @@ Hi All,
         />
       </a>
       &nbsp;&nbsp;
-      <a href="https://medium.com/@molinduachintha24">
+      <a href="https://medium.com/@ushanloshitha">
         <img
           src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"
         />
