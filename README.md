@@ -58,10 +58,13 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 > Tools and technologies that I have worked with and am interested in
 
 <table>
-    <td align="center" width="96">
+
+<th>Front-end Technologies</th>
+
+<td align="center" width="96">
       <a href="#macropower-tech">
-            ## Front-end Technologies
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+           
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
