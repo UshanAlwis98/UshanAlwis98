@@ -1,7 +1,7 @@
 Hi All,
 # 💫 About Me:
 - 🔭 I have worked in Onlineaccounting.lk <br>
-- 🌱 I’m currently learning in university of moratuwa as final year undergraduate.<br>
+- 🌱 I’m currently learning in university of **moratuwa** as final year undergraduate.<br>
 - 💬 Ask me about Programming.<br>
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
