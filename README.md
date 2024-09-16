@@ -67,75 +67,82 @@ Hello! I'm Ushan Alwis, a passionate web and mobile developer with a deep love f
 > Tools and technologies that I have worked with and am interested in
 
 <table>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+    <tr>
+
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="65" height="65" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mui-icon.svg" alt="icon" width="65" height="65" />
-      <br>MUI
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="65" height="65" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="icon" width="65" height="65" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" alt="icon" width="65" height="65" />
-      <br>Sklearn
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/matplotlib-icon.svg" alt="icon" width="65" height="65" />
-      <br>Matplotlib
-    </td>
-  </tr>
+
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Python
+        </td>
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Java
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+          <br>Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+          <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+          <br>Next.js
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="65" height="65" />
+          <br>Tailwind CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mui-icon.svg" alt="icon" width="65" height="65" />
+          <br>MUI
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+          <br>Node.js
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+          <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+          <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+          <br>REST API
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+          <br>GraphQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="65" height="65" />
+          <br>TensorFlow
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="icon" width="65" height="65" />
+          <br>Pandas
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" alt="icon" width="65" height="65" />
+          <br>Sklearn
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/matplotlib-icon.svg" alt="icon" width="65" height="65" />
+          <br>Matplotlib
+        </td>
+      </tr>
 </table>
 
 ## Github stats 📊
@@ -160,3 +167,49 @@ Hello! I'm Ushan Alwis, a passionate web and mobile developer with a deep love f
   <br/>
   <img src="https://komarev.com/ghpvc/?username=UshanAlwis98&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
+</details>
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/5c5ed914-be28-4fec-b19a-da03c42f9dab.png" /></a>
+  <br/>
+  <br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/db9e2140-aef6-4579-b328-02811e93ad7e.png" /></a>
+</details>
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/rzashakeri/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/tailwarden/komiser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tailwarden&repo=komiser&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+</details>
+
+## Recent GitHub Activity ✅
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandaruwanWGMA&theme=vue"></img>
+
+## GitHub Profile Trophy 🏆
+![](https://github-trophies.vercel.app/?username=sandaruwanWGMA&theme=onedark)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+![](https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UshanAlwis98&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=UshanAlwis98&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
