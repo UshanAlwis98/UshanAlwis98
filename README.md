@@ -33,7 +33,7 @@ Hi All,
         />
       </a>
       &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/molindu-achintha/">
+      <a href="https://www.linkedin.com/in/ushan-loshitha-de-alwis-1959ab237/">
         <img
           src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
         />
