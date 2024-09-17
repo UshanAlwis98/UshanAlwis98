@@ -49,7 +49,7 @@ Hi All,
     </div>
     &nbsp;
 <p align="justify">
-Hello! I'm **Ushan Loshitha De Alwis**, a passionate **MERN** Stack developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about **AI**, and I enjoy integrating machine learning into projects to create intelligent solutions.
+Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
 
 </p>
 
