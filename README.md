@@ -207,7 +207,7 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/sandaruwanWGMA/github-readme-stats"><img alt="Ushan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=UshanAlwis98&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+    <a href="https://github.com/UshanAlwis98/github-readme-stats"><img alt="Ushan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=UshanAlwis98&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
 <a href="https://github.com/UshanAlwis98/github-readme-stats"><img alt="Ushan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&layout=compact&langs_count=8" height="192px"/></a>  <br/>
 </details>
 
