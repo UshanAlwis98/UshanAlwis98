@@ -8,7 +8,15 @@ Hi All,
 - 💬 Ask me about Programming.<br>
 - 📫 How to reach me: ushanloshitha@gmail.com<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" />
+
+</a>
+<img align="middle" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+<br/>
+<br/>
+
+
+
 
 <div style="display: grid; column-gap: 40px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); justify-items: start;">
   <a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
