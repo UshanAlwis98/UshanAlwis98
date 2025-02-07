@@ -1,22 +1,22 @@
 
-![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)
-
-Hi All,
-# 💫 About Me:
-- 🔭 I have worked in Onlineaccounting.lk <br>
-- 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.<br>
-- 💬 Ask me about Programming.<br>
-- 📫 How to reach me: ushanloshitha@gmail.com<br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" />
+
+
+
+
+
 
 </a>
 <img align="middle" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 <br/>
 <br/>
 
-
-
+# 💫 About Me:
+- 🔭 I have worked in Onlineaccounting.lk <br>
+- 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.<br>
+- 💬 Ask me about Programming Fundamentals.<br>
+- 📫 How to reach me: ushanloshitha@gmail.com<br>
 
 <div style="display: grid; column-gap: 40px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); justify-items: start;">
   <a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
@@ -35,6 +35,40 @@ Hi All,
     <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
+
+## 🔭 Current Projects
+- **AI Hand Tracking on CPU in real time and Sign Language Detection**
+
+ ## 🕯 Currently Learning
+
+<table>
+<tr>
+  <td align="center" width="96"> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><a href="https://www.python.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/> </a></td>
+ <td align="center" width="96"> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="40" height="40"/> </a></td>
+ <td align="center" width="96"> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express.js" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><a href="https://react.dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/> </a></td>
+ <td align="center" width="96"><a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><a href="https://www.mongodb.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><a href="https://tailwindcss.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="40" height="40"/> </a></td>
+ <td align="center" width="96"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/> </a></td>
+</tr>
+ 
+</table>
+  
+- Java Design Patterns  
+- Data Structures and Algorithms
+- Machine Learning and Data Science
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+
 &nbsp;
 
 <p align="justify">
@@ -82,6 +116,8 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 
 ## GitHub Profile Trophy 🏆
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
+
+
 
 <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="dino.gif">
 
