@@ -124,10 +124,12 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 
 
 
-<img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif?cid=ecf05e47aiq1d2a5y7x6cd5k9y0agwort8yus1zcmrcpycc5&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated GIF">
 
 
 ## GitHub Stats 📊
+
+<img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif?cid=ecf05e47aiq1d2a5y7x6cd5k9y0agwort8yus1zcmrcpycc5&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated GIF">
+
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
