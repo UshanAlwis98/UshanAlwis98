@@ -8,7 +8,10 @@
 
 
 </a>
-<img align="middle" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif?cid=790b7611n07caxadkgjntfbotor7wme7rynfbl82s9xix4xb&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated GIF">
+</p>
+
 <br/>
 <br/>
 
@@ -120,7 +123,8 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 
 
 
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="dino.gif">
+<img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif?cid=ecf05e47aiq1d2a5y7x6cd5k9y0agwort8yus1zcmrcpycc5&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated GIF">
+
 
 ## GitHub Stats 📊
 
