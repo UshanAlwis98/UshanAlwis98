@@ -1,6 +1,7 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Ushan+here..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=50&duration=4500&pause=800&color=FFD700&center=true&vCenter=true&width=750&height=90&lines=%F0%9F%91%8B+Hello+World!+Ushan+Here...;%F0%9F%9A%80+This+is+my+Github+Track+Record!;%F0%9F%94%A8+Mastered+Fundamentals!;" alt="Impact Typing SVG">
+
 
 
 
