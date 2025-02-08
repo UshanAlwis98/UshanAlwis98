@@ -13,10 +13,11 @@
 <br/>
 
 # 💫 About Me:
-- 🔭 I have worked in Onlineaccounting.lk <br>
-- 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.<br>
-- 💬 Ask me about Programming Fundamentals.<br>
-- 📫 How to reach me: ushanloshitha@gmail.com<br>
+
+    - 🔭 I have worked in Onlineaccounting.lk 
+    - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
+    - 💬 Ask me about Programming Fundamentals.
+    - 📫 How to reach me: ushanloshitha@gmail.com
 
 <div style="display: grid; column-gap: 40px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); justify-items: start;">
   <a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
@@ -37,7 +38,7 @@
 </div>
 
 ## 🔭 Current Projects
-- **AI Hand Tracking on CPU in real time and Sign Language Detection**
+    - AI Hand Tracking on CPU in real time and Sign Language Detection
 
  ## 🕯 Currently Learning
 
@@ -57,9 +58,9 @@
  
 </table>
   
-- Java Design Patterns  
-- Data Structures and Algorithms
-- Machine Learning and Data Science
+    - Java Design Patterns  
+    - Data Structures and Algorithms
+    - Machine Learning and Data Science
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
