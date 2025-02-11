@@ -2,16 +2,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=50&duration=4500&pause=800&color=FFD700&center=true&vCenter=true&width=750&height=90&lines=%F0%9F%91%8B+Hello+World!+Ushan+Here...;%F0%9F%9A%80+This+is+my+Github+Track+Record!;%F0%9F%94%A8+Mastered+Fundamentals!;" alt="Impact Typing SVG">
 
-
-
-
-
-
-
+<a href="https://ibb.co/m52LkL15">
+<img src="https://i.ibb.co/KxfMdMRx/Ushan-Linkedin-Cover-Photo.png" alt="Ushan-Linkedin-Cover-Photo" border="0">
 </a>
-<p align="center">
-  <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif?cid=790b7611n07caxadkgjntfbotor7wme7rynfbl82s9xix4xb&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated GIF">
-</p>
+
+
+
+
+
+
+
 
 <br/>
 <br/>
@@ -41,31 +41,8 @@
   </a>
 </div>
 
-## 🔭 Current Projects
-    - AI Hand Tracking on CPU in real time and Sign Language Detection
 
- ## 🕯 Currently Learning
-
-<table>
-<tr>
-  <td align="center" width="96"> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/> </a></td>
-  <td align="center" width="96"><a href="https://www.python.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/> </a></td>
- <td align="center" width="96"> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="40" height="40"/> </a></td>
- <td align="center" width="96"> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express.js" width="40" height="40"/> </a></td>
-  <td align="center" width="96"><a href="https://react.dev" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/> </a></td>
- <td align="center" width="96"><a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/> </a></td>
-  <td align="center" width="96"><a href="https://www.mongodb.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/> </a></td>
-  <td align="center" width="96"><a href="https://tailwindcss.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="40" height="40"/> </a></td>
- <td align="center" width="96"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40"/> </a></td>
-  <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/> </a></td>
-</tr>
- 
-</table>
   
-    - Java Design Patterns  
-    - Data Structures and Algorithms
-    - Machine Learning and Data Science
-
 
 
 
