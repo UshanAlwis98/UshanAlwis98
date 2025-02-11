@@ -66,19 +66,11 @@
     - Data Structures and Algorithms
     - Machine Learning and Data Science
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
 
 
 
 &nbsp;
-
-<p align="justify">
-Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
-</p>
 
 ## My favorite tools and technologies ⚙️
 
@@ -123,9 +115,6 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
 
 
-
-
-
 ## GitHub Stats 📊
 
 ![Visitor](https://komarev.com/ghpvc/?username=UshanAlwis98z&color=blueviolet&style=flat-square) 
@@ -144,5 +133,11 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
