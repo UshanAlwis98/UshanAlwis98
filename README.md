@@ -128,37 +128,21 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
 
 ## GitHub Stats 📊
 
-<img src="https://media.giphy.com/media/pT4hk0FMDu5VT0oRQc/giphy.gif?cid=ecf05e47aiq1d2a5y7x6cd5k9y0agwort8yus1zcmrcpycc5&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated GIF">
+![Visitor](https://komarev.com/ghpvc/?username=UshanAlwis98z&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/UshanAlwis98)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/UshanAlwis98/UshanAlwis98?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
+<div style="display: flex;">
+        <img src="https://api.githubtrends.io/user/svg/UshanAlwis98/repos?time_range=one_year&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Trends">
+         <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
+</div>
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UshanAlwis98&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=UshanAlwis98&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
-</details>
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/5c5ed914-be28-4fec-b19a-da03c42f9dab.png" /></a>
-</details>
-
-<details>
-  <summary>Top Contributed Repos 🔝</summary>
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</details>
+<div>
+  <a href="https://github.com/UshanAlwis98">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UshanAlwis98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=UshanAlwis98&icon=0&color=0)](https://visitcount.itsvg.in)
