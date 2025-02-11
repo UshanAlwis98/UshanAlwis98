@@ -93,7 +93,11 @@
 ![Last Commit](https://img.shields.io/github/last-commit/UshanAlwis98/UshanAlwis98?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
 <div style="display: flex;">
-        <img src="https://api.githubtrends.io/user/svg/UshanAlwis98/repos?time_range=one_year&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Trends">
+   
+
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</details>
          <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
 </div>
 
