@@ -65,7 +65,7 @@
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br>Tailwind</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" /><br>MySQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" /><br>Pandas</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=scikit-learn" width="48" height="48" /><br>Scikit-learn</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" /><br>Scikit-learn</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br>Express.js</td>
 </tr>
 <tr>
