@@ -24,7 +24,7 @@
   <a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
     <img src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ushan-loshitha-de-alwis-1959ab237/">
+  <a href="https://www.linkedin.com/in/ushan-loshitha-1959ab237/">
     <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://telegram.org/dl">
@@ -37,10 +37,6 @@
     <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
-
-
-  
-
 
 
 
