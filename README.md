@@ -145,4 +145,4 @@ Hello! I'm Ushan Loshitha De Alwis, a passionate MERN Stack developer with a dee
   </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=UshanAlwis98&icon=0&color=0)](https://visitcount.itsvg.in)
+
