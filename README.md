@@ -81,8 +81,12 @@
 </tr>
 </table>
 
-## GitHub Profile Trophy 🏆
+## GitHub Profile Trophies 🏆
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
+
+<img src="https://github-profile-trophy.vercel.app/?username=UshanAlwis98&theme=darkhub&column=7&margin-w=15&margin-h=15" />
+
+
 
 
 ## GitHub Stats 📊
@@ -101,7 +105,14 @@
   <br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </details>
-         <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
+       <img src="https://streak-stats.demolab.com/?user=UshanAlwis98&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
+
+
+
+
+
+
+
 </div>
 
 <div>
