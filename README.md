@@ -70,7 +70,7 @@
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" /><br>Prettier</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br>Tailwind</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" /><br>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" /><br>Pandas</td>
+<td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <br>Pandas</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" /><br>Scikit-learn</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br>Express.js</td>
 </tr>
