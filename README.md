@@ -111,7 +111,12 @@
   <br/>
   <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </details>
-       <img src="https://streak-stats.demolab.com/?user=UshanAlwis98&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
+     
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=UshanAlwis98&theme=tokyonight&hide_border=true)<br/>
+       
+![](https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    
 
 
 
@@ -121,12 +126,7 @@
 
 </div>
 
-<div>
-  <a href="https://github.com/UshanAlwis98">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UshanAlwis98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
