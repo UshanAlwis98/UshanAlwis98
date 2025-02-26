@@ -26,22 +26,40 @@
     - 💬 Ask me about Programming Fundamentals.
     - 📫 How to reach me: ushanloshitha@gmail.com
 
+<table>
+    <th>
 <div style="display: grid; column-gap: 40px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); justify-items: start;">
   <a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
     <img src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ushan-loshitha-1959ab237/">
-    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
+    </th>
+    <th>
+     <a href="https://www.linkedin.com/in/ushan-loshitha-1959ab237/" target="_blank" title="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A3981?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    </a>
+        </th>
+    <th>
   <a href="https://telegram.org/dl">
     <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+        </th>
+    <th>
   <a href="https://medium.com/@ushanloshitha">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+        </th>
+    <th>
   <a href="https://wa.me/+94767649483">
     <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+        </th>
+    <th>
+  <a href="mailto:ushanloshitha@gmail.com" target="_blank" title="Mail">
+      <img src="https://img.shields.io/badge/-Mail-FFB22C?style=for-the-badge" />
+    </a>
+        </th>
+    </table>
+  
 </div>
 
 
