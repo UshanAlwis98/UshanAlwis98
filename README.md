@@ -21,11 +21,11 @@
 
 # 💫 About Me:
 
-    - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
-    - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
-    - 💬 Ask me about Programming Fundamentals.
-    - 📫 How to reach me: ushanloshitha@gmail.com
-    
+        - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
+        - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
+        - 💬 Ask me about Programming Fundamentals.
+        - 📫 How to reach me: ushanloshitha@gmail.com
+        
 
 
 <table>
@@ -72,7 +72,7 @@
 
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with and am interested in 
 <table>
 <tr>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python</td>
