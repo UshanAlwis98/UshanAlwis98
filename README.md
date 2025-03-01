@@ -21,7 +21,7 @@
 
 # 💫 About Me:
 
-    - 🔭 I have worked in Onlineaccounting.lk 
+    - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
     - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
     - 💬 Ask me about Programming Fundamentals.
     - 📫 How to reach me: ushanloshitha@gmail.com
