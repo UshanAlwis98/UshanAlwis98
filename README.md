@@ -68,7 +68,7 @@
 
 
 
-&nbsp;
+
 
 ## My favorite tools and technologies ⚙️
 
