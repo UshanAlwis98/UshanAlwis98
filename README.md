@@ -27,7 +27,7 @@
         
 
 
-<table>
+<table align="center">
     <th>
 <div style="display: grid; column-gap: 40px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); justify-items: start;">
   <a href="https://stackoverflow.com/users/21226936/ushan-loshitha-de-alwis">
