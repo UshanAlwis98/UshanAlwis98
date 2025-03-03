@@ -3,7 +3,6 @@
 
 
 
-
 <div align="center">
     <a href="https://ibb.co/DfTJqbM3">
         <img src="https://i.ibb.co/b5D0f3vp/Ushan-Loshitha-Github-Cover-Image.png"  alt="Ushan-Loshitha-Github-Cover-Image" border="0">
