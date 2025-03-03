@@ -111,7 +111,6 @@
 
 ## GitHub Profile Trophies 🏆
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
-
 <img src="https://github-profile-trophy.vercel.app/?username=UshanAlwis98&theme=darkhub&column=7&margin-w=15&margin-h=15" />
 
 
