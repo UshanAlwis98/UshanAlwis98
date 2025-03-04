@@ -69,7 +69,7 @@
 
 
 
-## My favorite tools and technologies ⚙️
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">⚙️ TECH STACK </h1>
 
 > Tools and technologies that I have worked with and am interested in 
 <table>
