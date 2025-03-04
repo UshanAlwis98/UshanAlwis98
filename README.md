@@ -115,7 +115,7 @@
 
 
 
-## GitHub Stats 📊
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 📊 GITHUB STATS  </h1>
 
 ![Visitor](https://komarev.com/ghpvc/?username=UshanAlwis98z&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/UshanAlwis98)
