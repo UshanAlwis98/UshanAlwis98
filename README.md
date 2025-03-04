@@ -14,7 +14,11 @@
 <br/>
 <br/>
 
-# 💫 About Me:
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">💫 ABOUT     ME</h1>
+
+
+
+
 
         - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
         - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
