@@ -108,7 +108,8 @@
 </tr>
 </table>
 
-## GitHub Profile Trophies 🏆
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 🏆 GITHUB PROFILE TROPIES  </h1>
+
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
 <img src="https://github-profile-trophy.vercel.app/?username=UshanAlwis98&theme=darkhub&column=7&margin-w=15&margin-h=15" />
 
