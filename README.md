@@ -110,6 +110,14 @@
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">🎨 MULTIMEDIA SKILLS </h1>
 
+<table>
+  <tr> <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" width="48" height="48" /></td>
+  <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" width="48" height="48" /></td></tr>
+  
+</table>
+ 
+
+
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 🏆 GITHUB PROFILE TROPIES  </h1>
 
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
