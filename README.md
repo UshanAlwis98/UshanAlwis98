@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=50&duration=4500&pause=800&color=FFD700&center=true&vCenter=true&width=750&height=90&lines=%F0%9F%91%8B+Hello+World!+Ushan+Here...;%F0%9F%9A%80+This+is+my+Github+Track+Record!;%F0%9F%94%A8+Mastered+Fundamentals!;" alt="Impact Typing SVG">
 
 
