@@ -113,7 +113,6 @@
 </table>
  
 
-
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 🏆 GITHUB PROFILE TROPIES  </h1>
 
 ![](https://github-trophies.vercel.app/?username=UshanAlwis98&theme=onedark)
