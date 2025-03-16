@@ -11,9 +11,9 @@
     </a>
 </div>
 
+<br/>
+<br/>
 
-<br/>
-<br/>
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">💫 ABOUT     ME</h1>
 
