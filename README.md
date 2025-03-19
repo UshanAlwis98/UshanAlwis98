@@ -15,7 +15,6 @@
 <br/>
 
 
-
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">💫 ABOUT     ME</h1>
 
 
@@ -129,7 +128,6 @@
 
 <div style="display: flex;">
    
-
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UshanAlwis98&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
 
