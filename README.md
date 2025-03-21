@@ -126,20 +126,29 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/UshanAlwis98/UshanAlwis98?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
-<div style="display: flex;">
-   
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UshanAlwis98&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
+<!--- stats -->
+<table align="center">
+  <tr border="none">
+    <td width="100%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UshanAlwis98&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
+    </td>
+    </tr>
+  <tr>
+    <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=UshanAlwis98&theme=tokyonight&border_radius=11.5)](https://git.io/streak-stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+    </td>
+</tr>
+  <tr>
+    <td width="100%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  
+  </tr>
+</table>
 
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</details>
-     
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UshanAlwis98&theme=tokyonight&border_radius=11.5)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-    
-</div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
