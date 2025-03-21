@@ -121,11 +121,14 @@
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 📊 GITHUB STATS  </h1>
 
+<div align="center">
+  
 ![Visitor](https://komarev.com/ghpvc/?username=UshanAlwis98z&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/UshanAlwis98)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-NO-green.svg?style=flat-square&color=brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/UshanAlwis98/UshanAlwis98?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
+</div>
 <!--- stats -->
 <table align="center">
   <tr border="2px">
