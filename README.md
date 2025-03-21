@@ -128,8 +128,9 @@
 
 <!--- stats -->
 <table align="center">
-  <tr border="none">
+  <tr border="2px">
     <td width="100%" align="center">
+      <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 📈 USHAN ALWIS GITHUB STATS  </h1>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=UshanAlwis98&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
     </td>
     </tr>
@@ -149,12 +150,14 @@
 
 
 
-
-<picture>
+<div align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+</div>
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
