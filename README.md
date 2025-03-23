@@ -68,7 +68,7 @@
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">⚙️ TECH STACK </h1>
 
 > Tools and technologies that I have worked with and am interested in 
-<table border="12px solid black" align="center">
+<table border="8px" align="center">
 <tr>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br>Java</td>
