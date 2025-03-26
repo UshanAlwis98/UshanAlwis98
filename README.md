@@ -116,37 +116,37 @@
 
 <table align="center">
 <tr>
-  <td>
+  <td  width="300" height="300">
      <a href="https://ibb.co/WWTSTtzq"><img src="https://i.ibb.co/N64w4SNQ/e-Certificate.jpg" alt="e-Certificate" border="0" ></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
 
-  <td>
+  <td  width="300" height="300">
     <a href="https://ibb.co/dJrYL0Kr"><img src="https://i.ibb.co/BKtMrVst/Coursera-JEXWWF70-KIWY.jpg" alt="Coursera-JEXWWF70-KIWY" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
 
-  <td>
+  <td  width="300" height="300">
     <a href="https://ibb.co/Z16Z61z0"><img src="https://i.ibb.co/LhzGzhd3/Coursera-5-ETATQW8-MYNN.jpg" alt="Coursera-5-ETATQW8-MYNN" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td> 
 </tr>
 
 <tr>
-<td>
+<td  width="300" height="300">
   
    <a href="https://ibb.co/Vc84bKSm"><img src="https://i.ibb.co/9kj5BMTt/Coursera-6-PI0-XUPP2-ASZ.jpg" alt="Coursera-6-PI0-XUPP2-ASZ" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
    
   </td> 
 
-  <td>
+  <td  width="300" height="300">
    <a href="https://ibb.co/qYpNppbT"><img src="https://i.ibb.co/QvMPMMsy/Coursera-DAB8-TAEE2-RUF.jpg" alt="Coursera-DAB8-TAEE2-RUF" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> 
   </td> 
 
-  <td>
+  <td  width="300" height="300">
     <a href="https://ibb.co/wFHvRsvw"><img src="https://i.ibb.co/mVsxG8xX/Coursera-QP55-PJ2-MPEQB.jpg" alt="Coursera-QP55-PJ2-MPEQB" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td> 
 </tr>
 
 <tr>
-  <td>
+  <td >
     <a href="https://ibb.co/J4ZLzpH"><img src="https://i.ibb.co/3qKX0Fc/Coursera-H1-ITZ79-OBR7-K.jpg" alt="Coursera-H1-ITZ79-OBR7-K" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
 
