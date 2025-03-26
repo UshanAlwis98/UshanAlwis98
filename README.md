@@ -112,6 +112,7 @@
   
 </table>
 
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">📜 CERTIFICATE ZONE </h1>
 <table>
 <tr>
   <td>
