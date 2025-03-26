@@ -147,6 +147,14 @@
   <td>
     <a href="https://ibb.co/J4ZLzpH"><img src="https://i.ibb.co/3qKX0Fc/Coursera-H1-ITZ79-OBR7-K.jpg" alt="Coursera-H1-ITZ79-OBR7-K" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
+
+   <td>
+     <a href="https://ibb.co/7hfDPPw"><img src="https://i.ibb.co/BkpJbbX/Snowflake.jpg" alt="Snowflake" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
+  </td>
+
+  <td>
+     <a href="https://ibb.co/qMR0Qw32"><img src="https://i.ibb.co/ccNbndSs/Snowflake-Badge-2.jpg" alt="Snowflake-Badge-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
+  </td>
 </tr>
  
 </table>
