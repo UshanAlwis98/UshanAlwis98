@@ -111,9 +111,10 @@
   <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" width="48" height="48" /></td></tr>
   
 </table>
-
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">📜 CERTIFICATE ZONE </h1>
-<table>
+
+<table align="center">
 <tr>
   <td>
      <a href="https://ibb.co/WWTSTtzq"><img src="https://i.ibb.co/N64w4SNQ/e-Certificate.jpg" alt="e-Certificate" border="0" ></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
@@ -162,7 +163,7 @@
 
 
  
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line"  style="width: 50px; height: 50px">
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 🏆 GITHUB PROFILE TROPIES  </h1>
 
 <table align="center">
