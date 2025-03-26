@@ -68,7 +68,7 @@
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">⚙️ TECH STACK </h1>
 
 > Tools and technologies that I have worked with and am interested in 
-<table border="8px" align="center">
+<table border="12px" align="center">
 <tr>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br>Java</td>
@@ -112,35 +112,36 @@
   
 </table>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">📜 CERTIFICATE ZONE </h1>
 
-<table align="center">
+<table  border="12px" align="center">
 <tr>
-  <td  width="300" height="300">
+  <td  >
      <a href="https://ibb.co/WWTSTtzq"><img src="https://i.ibb.co/N64w4SNQ/e-Certificate.jpg" alt="e-Certificate" border="0" ></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
 
-  <td  width="300" height="300">
+  <td  >
     <a href="https://ibb.co/dJrYL0Kr"><img src="https://i.ibb.co/BKtMrVst/Coursera-JEXWWF70-KIWY.jpg" alt="Coursera-JEXWWF70-KIWY" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
 
-  <td  width="300" height="300">
+  <td >
     <a href="https://ibb.co/Z16Z61z0"><img src="https://i.ibb.co/LhzGzhd3/Coursera-5-ETATQW8-MYNN.jpg" alt="Coursera-5-ETATQW8-MYNN" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td> 
 </tr>
 
 <tr>
-<td  width="300" height="300">
+<td  >
   
    <a href="https://ibb.co/Vc84bKSm"><img src="https://i.ibb.co/9kj5BMTt/Coursera-6-PI0-XUPP2-ASZ.jpg" alt="Coursera-6-PI0-XUPP2-ASZ" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
    
   </td> 
 
-  <td  width="300" height="300">
+  <td  >
    <a href="https://ibb.co/qYpNppbT"><img src="https://i.ibb.co/QvMPMMsy/Coursera-DAB8-TAEE2-RUF.jpg" alt="Coursera-DAB8-TAEE2-RUF" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> 
   </td> 
 
-  <td  width="300" height="300">
+  <td >
     <a href="https://ibb.co/wFHvRsvw"><img src="https://i.ibb.co/mVsxG8xX/Coursera-QP55-PJ2-MPEQB.jpg" alt="Coursera-QP55-PJ2-MPEQB" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td> 
 </tr>
