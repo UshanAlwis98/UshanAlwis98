@@ -15,7 +15,7 @@
 <br/>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">💫 ABOUT     ME</h1>
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ABOUT     ME</h1>
 
 
 
@@ -104,13 +104,7 @@
 </tr>
 </table>
 
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">🎨 MULTIMEDIA SKILLS </h1>
 
-<table>
-  <tr> <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" width="48" height="48" /></td>
-  <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg" width="48" height="48" /></td></tr>
-  
-</table>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">📜 CERTIFICATE ZONE </h1>
@@ -167,7 +161,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 🏆 GITHUB PROFILE TROPIES  </h1>
 
-<table align="center">
+<table border="12px" align="center">
 <tr>
   <td align="center">  
     
@@ -198,7 +192,7 @@
 
 </div>
 <!--- stats -->
-<table align="center">
+<table  border="12px" align="center">
   <tr border="2px">
     <td width="100%" align="center">
       <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 📈 USHAN ALWIS GITHUB STATS  </h1>
