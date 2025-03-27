@@ -99,7 +99,7 @@
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mui" width="48" height="48" /><br>MUI</td>
 <td align="center" width="96"><img src="https://img.icons8.com/color/48/mongo-db.png" width="48" height="48" /><br>MongoDB</td>
-<td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="48" height="48" /><br>Power BI</td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Light.svg" width="48" height="48" /><br>Linux</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /><br>Next.js</td>
 <td align="center" width="96"><img src="https://img.icons8.com/color/96/numpy.png" width="48" height="48" /><br>NumPy</td>
 <td align="center" width="96"><img src="https://img.icons8.com/color/144/visual-studio-code-2019.png" width="48" height="48" /><br>VS Code</td>
