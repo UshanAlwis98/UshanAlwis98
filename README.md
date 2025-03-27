@@ -25,6 +25,8 @@
     - 📫 How to reach me: ushanloshitha@gmail.com
         
 
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> 
+
 
 <table align="center">
     <th>
@@ -65,7 +67,7 @@
 </div>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">⚙️ TECH STACK </h1>
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> TECH STACK </h1>
 
 > Tools and technologies that I have worked with and am interested in 
 <table border="12px" align="center">
@@ -181,7 +183,7 @@
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 📊 GITHUB STATS  </h1>
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GITHUB STATS  </h1>
 
 <div align="center">
   
