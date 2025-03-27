@@ -67,7 +67,7 @@
 </div>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> TECH STACK </h1>
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> TECHNICAL SKILLS </h1>
 
 > Tools and technologies that I have worked with and am interested in 
 <table border="12px" align="center">
