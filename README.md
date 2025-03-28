@@ -9,6 +9,7 @@
     <a href="https://ibb.co/DfTJqbM3">
         <img src="https://i.ibb.co/b5D0f3vp/Ushan-Loshitha-Github-Cover-Image.png"  alt="Ushan-Loshitha-Github-Cover-Image" border="0">
     </a>
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
 <br/>
@@ -161,7 +162,8 @@
 
  
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> 🏆 GITHUB PROFILE TROPHY CABINET  </h1>
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"  align="left"> 🏆 GITHUB PROFILE TROPHY CABINET  </h1>
+
 
 <table border="12px" align="center">
 <tr>
