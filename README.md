@@ -25,7 +25,7 @@
     - 📫 How to reach me: ushanloshitha@gmail.com
         
 
- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="30%"> 
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="25%"> 
 
 
 <table align="center">
