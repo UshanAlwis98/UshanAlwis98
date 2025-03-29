@@ -206,13 +206,13 @@
   <tr>
     <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=UshanAlwis98&theme=tokyonight&border_radius=11.5)](https://git.io/streak-stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+        <img src="https://github-readme-stats.vercel.app/api?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
     </td>
 </tr>
   <tr>
     <td width="100%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-      <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
   
   </tr>
 </table>
