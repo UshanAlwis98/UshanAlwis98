@@ -214,7 +214,14 @@
     <td width="100%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanAlwis98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
       <img src="https://github-contributor-stats.vercel.app/api?username=UshanAlwis98&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
-  
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+       <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+    </td>
+   
   </tr>
 </table>
 
