@@ -199,41 +199,38 @@
   </picture>
 </div>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://i.ibb.co/zT4PPXDg/Galaxy-Brain-Gold.png" alt="Galaxy Brain Gold" width="100"/><br/>
-      <strong>Galaxy Brain (Gold)</strong>
-    </td>
-    <td align="center">
-      <img src="https://i.ibb.co/kVM7yggy/Heart-On-Your-Sleeve-Bronze.png" alt="Heart On Your Sleeve Bronze" width="100"/><br/>
-      <strong>Heart on Sleeve (Bronze)</strong>
-    </td>
-    <td align="center">
-      <img src="https://i.ibb.co/0p27nzGK/Pull-Shark-Gold.png" alt="Pull Shark Gold" width="100"/><br/>
-      <strong>Pull Shark (Gold)</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+<table align="center" >
+ 
+  <td align="center">
+  <img src="https://i.ibb.co/zT4PPXDg/Galaxy-Brain-Gold.png" alt="Galaxy Brain Gold" width="100"/><br/>
+ </td>
+ 
+  <td align="center">
+  <img src="https://i.ibb.co/kVM7yggy/Heart-On-Your-Sleeve-Bronze.png" alt="Heart On Your Sleeve Bronze" width="100"/><br/>
+ </td>
+  
+  <td align="center">
+  <img src="https://i.ibb.co/0p27nzGK/Pull-Shark-Gold.png" alt="Pull Shark Gold" width="100"/><br/>
+ </td>
+  
+
+ 
+  <td align="center">
       <img src="https://i.ibb.co/j2xw55M/Quick-Draw-Skin-Tone1.png" alt="Quick Draw" width="100"/><br/>
-      <strong>Quick Draw</strong>
-    </td>
-    <td align="center">
-      <img src="https://i.ibb.co/Fb5j17wm/Star-Struck-Bronze.png" alt="Star Struck Bronze" width="100"/><br/>
-      <strong>Star Struck (Bronze)</strong>
-    </td>
-    <td align="center">
-      <img src="https://i.ibb.co/LdQZVHfr/Star-Struck-Gold.png" alt="Star Struck Gold" width="100"/><br/>
-      <strong>Star Struck (Gold)</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
+
+  </td>
+
+  <td align="center" colspan="3">
+    <img src="https://i.ibb.co/LdQZVHfr/Star-Struck-Gold.png" alt="Star-Struck-Gold" width="100">
+
+  </td>
+
+
+  <td align="center" colspan="3">
       <img src="https://i.ibb.co/2Yt6PP8G/YOLO-Badge.png" alt="YOLO Badge" width="100"/><br/>
-      <strong>YOLO Badge</strong>
-    </td>
-  </tr>
+ 
+  </td>
+
 </table>
 
 <br>
