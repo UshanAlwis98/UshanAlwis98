@@ -182,7 +182,61 @@
   
 </table>
 
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">  🏅 GITHUB BADGES  </h1>
 
+<br>
+
+<div align="center">
+  <picture>
+  <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @seanpm2001 !-->
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
+    <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
+  </picture><br>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
+    <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
+  </picture>
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/zT4PPXDg/Galaxy-Brain-Gold.png" alt="Galaxy Brain Gold" width="100"/><br/>
+      <strong>Galaxy Brain (Gold)</strong>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/kVM7yggy/Heart-On-Your-Sleeve-Bronze.png" alt="Heart On Your Sleeve Bronze" width="100"/><br/>
+      <strong>Heart on Sleeve (Bronze)</strong>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/0p27nzGK/Pull-Shark-Gold.png" alt="Pull Shark Gold" width="100"/><br/>
+      <strong>Pull Shark (Gold)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.ibb.co/j2xw55M/Quick-Draw-Skin-Tone1.png" alt="Quick Draw" width="100"/><br/>
+      <strong>Quick Draw</strong>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/Fb5j17wm/Star-Struck-Bronze.png" alt="Star Struck Bronze" width="100"/><br/>
+      <strong>Star Struck (Bronze)</strong>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/LdQZVHfr/Star-Struck-Gold.png" alt="Star Struck Gold" width="100"/><br/>
+      <strong>Star Struck (Gold)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://i.ibb.co/2Yt6PP8G/YOLO-Badge.png" alt="YOLO Badge" width="100"/><br/>
+      <strong>YOLO Badge</strong>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
