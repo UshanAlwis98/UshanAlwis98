@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://ibb.co/DfTJqbM3">
-        <img src="https://i.ibb.co/b5D0f3vp/Ushan-Loshitha-Github-Cover-Image.png"  alt="Ushan-Loshitha-Github-Cover-Image" border="0">
+      <a href="https://ibb.co/BK5gCr43"><img src="https://i.ibb.co/mFVHcXvT/postspark.png" alt="postspark" border="0"></a>
     </a>
   
 </div>
