@@ -28,7 +28,6 @@
 
  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="25%"> 
 
-
 <table align="center">
     <th>
 <div style="display: grid; column-gap: 40px; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); justify-items: start;">
