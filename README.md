@@ -155,12 +155,16 @@
   <td>
      <a href="https://ibb.co/qMR0Qw32"><img src="https://i.ibb.co/ccNbndSs/Snowflake-Badge-2.jpg" alt="Snowflake-Badge-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
   </td>
+</tr>
 
-  <td>
+<tr>
+   <td>
   <a href="https://ibb.co/ns7QKjzz"><img src="https://i.ibb.co/d0PkHDGG/Generative-AI-Fundamentals.jpg" alt="Generative-AI-Fundamentals" border="0"></a><br />     
   </td>
-  
 </tr>
+ 
+  
+
  
 </table>
 
