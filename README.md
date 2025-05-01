@@ -17,8 +17,12 @@
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> ABOUT     ME</h1>
+<div align="center">
+<a href="https://ibb.co/zVSMJpB5"><img src="https://i.ibb.co/HTrSd6b2/Github-Profile-Image.png" alt="Github-Profile-Image" border="0"></a>
 
-
+  
+</div>
+   
 
     - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
     - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
