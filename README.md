@@ -17,13 +17,16 @@
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> ABOUT     ME</h1>
-<h1 align="center">
+<p align="center" style="font-size:38px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:bold; color:#F7E976; letter-spacing:1px;">
   Ushan here!
   <img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" 
        alt="wave" 
-       style="max-width: 100px; width:50px; display: inline-block;" 
+       style="max-width: 100px; width:50px; display: inline-block; vertical-align: middle;" 
        data-target="animated-image.originalImage">
-</h1>
+</p>
+
+
+
 
 <a href="https://git.io/typing-svg" style="text-decoration: none;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7E976&center=true&vCenter=true&width=1500&lines=Tech+enthusiastic+%7C%7C+A+full+stack+developer+%7C%7C+Data+Engineer" 
