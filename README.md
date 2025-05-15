@@ -28,7 +28,6 @@
 
 
 
-
 <a href="https://git.io/typing-svg" style="text-decoration: none;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7E976&center=true&vCenter=true&width=1500&lines=Tech+enthusiastic+%7C%7C+A+full+stack+developer+%7C%7C+Data+Engineer" 
        alt="Typing SVG" />
