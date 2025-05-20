@@ -6,10 +6,7 @@
 
 
 <div align="center">
-    <a href="https://ibb.co/DfTJqbM3">
-      <a href="https://ibb.co/BK5gCr43"><img src="https://i.ibb.co/mFVHcXvT/postspark.png" alt="postspark" border="0"></a>
-    </a>
-  
+   <a href="https://ibb.co/twMcVRQz"><img src="https://i.ibb.co/qLM9T67C/100-days-of-Coding.png" alt="100-days-of-Coding" border="0"></a>
 </div>
 
 <br/>
