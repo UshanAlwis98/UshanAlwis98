@@ -206,9 +206,23 @@
 </table>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">  🏅 GITHUB BADGES  </h1>
+
 
 <br>
+
+
+
+
+
+
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GITHUB STATS  </h1>
+
+<div align="center">
+  
+![Visitor](https://komarev.com/ghpvc/?username=UshanAlwis98z&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/UshanAlwis98)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-NO-green.svg?style=flat-square&color=brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/UshanAlwis98/UshanAlwis98?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
 <div align="center">
   <picture>
@@ -221,55 +235,6 @@
     <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
   </picture>
 </div>
-
-<table align="center" >
- 
-  <td align="center">
-  <img src="https://i.ibb.co/zT4PPXDg/Galaxy-Brain-Gold.png" alt="Galaxy Brain Gold" width="100"/><br/>
- </td>
- 
-  <td align="center">
-  <img src="https://i.ibb.co/kVM7yggy/Heart-On-Your-Sleeve-Bronze.png" alt="Heart On Your Sleeve Bronze" width="100"/><br/>
- </td>
-  
-  <td align="center">
-  <img src="https://i.ibb.co/0p27nzGK/Pull-Shark-Gold.png" alt="Pull Shark Gold" width="100"/><br/>
- </td>
-  
-
- 
-  <td align="center">
-      <img src="https://i.ibb.co/j2xw55M/Quick-Draw-Skin-Tone1.png" alt="Quick Draw" width="100"/><br/>
-
-  </td>
-
-  <td align="center" colspan="3">
-    <img src="https://i.ibb.co/LdQZVHfr/Star-Struck-Gold.png" alt="Star-Struck-Gold" width="100">
-
-  </td>
-
-
-  <td align="center" colspan="3">
-      <img src="https://i.ibb.co/2Yt6PP8G/YOLO-Badge.png" alt="YOLO Badge" width="100"/><br/>
- 
-  </td>
-
-</table>
-
-<br>
-
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GITHUB STATS  </h1>
-
-<div align="center">
-  
-![Visitor](https://komarev.com/ghpvc/?username=UshanAlwis98z&color=blueviolet&style=flat-square) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/UshanAlwis98)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-NO-green.svg?style=flat-square&color=brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/UshanAlwis98/UshanAlwis98?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
-
-
 
 
 </div>
