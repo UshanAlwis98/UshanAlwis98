@@ -186,7 +186,9 @@
  
   
 </table>
-
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">📜 Academic Performances </h1>
+<a href="https://ibb.co/5xkB3sMy"><img src="https://i.ibb.co/h1cDN27j/My-GPA.jpg" alt="My-GPA" border="0"></a>
  
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"  align="left"> 🏆 GITHUB PROFILE TROPHY CABINET  </h1>
