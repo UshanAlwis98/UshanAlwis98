@@ -207,7 +207,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px; text-align:center;">
-   🎓 ARTICLES WRITTEN
+   ✍️ ARTICLES WRITTEN
 </h1>
 
 <table  border="12px" align="center">
