@@ -206,6 +206,20 @@
  
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
+<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px; text-align:center;">
+   🎓 ARTICLES WRITTEN
+</h1>
+
+<table  border="12px" align="center">
+  <tr>
+    <td>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/tw1c4ZQd/a-RTICLES-BY-ME.jpg" alt="a-RTICLES-BY-ME" border="0"></a>
+      </td>
+    </tr>
+</table>
+
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"  align="left"> 🏆 GITHUB PROFILE TROPHY CABINET  </h1>
 
 
