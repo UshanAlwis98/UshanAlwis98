@@ -78,7 +78,16 @@
         </th>
     </table>
 
+ ## 🎧 What's Vibin?
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/9e26dolk3590fq0god5akapie">
+    <img src="https://github.com/edorado93/edorado93/blob/main/spotify.svg" alt="Spotify">
+  </a>
+</div>
+
+       
 
 
   ## 💰 You can help me by Donating
