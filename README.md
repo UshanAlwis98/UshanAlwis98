@@ -243,6 +243,20 @@
   </table>
 </div>
 
+<br>
+
+<!-- Subscription Message -->
+<p align="center">
+  💌 <strong>Stay inspired!</strong> Subscribe to my LinkedIn newsletter for exclusive articles and updates.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/newsletters/7342881347318792193/" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Subscribe on LinkedIn">
+  </a>
+</p>
+
+
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
