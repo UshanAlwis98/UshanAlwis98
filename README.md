@@ -223,13 +223,26 @@
    ✍️ ARTICLES WRITTEN
 </h1>
 
-<table  border="12px" align="center">
-  <tr>
-    <td>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/tw1c4ZQd/a-RTICLES-BY-ME.jpg" alt="a-RTICLES-BY-ME" border="0"></a>
+<div align="center">
+  <a href="https://ibb.co/0RQjDf1M">
+    <img src="https://i.ibb.co/Mx9D2RKV/Newsletter.png" alt="Newsletter" border="0">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table border="12px">
+    <tr>
+      <td>
+        <a href="https://imgbb.com/">
+          <img src="https://i.ibb.co/tw1c4ZQd/a-RTICLES-BY-ME.jpg" alt="a-RTICLES-BY-ME" border="0">
+        </a>
       </td>
     </tr>
-</table>
+  </table>
+</div>
+
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
