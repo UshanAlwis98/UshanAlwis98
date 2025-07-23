@@ -219,35 +219,20 @@
  
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px; text-align:center;">
-   ✍️ ARTICLES WRITTEN
-</h1>
+<h1 align="center">✍️ ARTICLES WRITTEN</h1>
 
-<div align="center">
-  <a href="https://ibb.co/0RQjDf1M">
-    <img src="https://i.ibb.co/Mx9D2RKV/Newsletter.png" alt="Newsletter" border="0">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <table border="12px">
-    <tr>
-      <td>
-        <a href="https://imgbb.com/">
-          <img src="https://i.ibb.co/tw1c4ZQd/a-RTICLES-BY-ME.jpg" alt="a-RTICLES-BY-ME" border="0">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- Subscription Message -->
+<table border="12px" >
+  <tr>
+    <td>
 <p align="center">
-  💌 <strong>Stay inspired!</strong> Subscribe to my LinkedIn newsletter for exclusive articles and updates.
+  <a href="https://ibb.co/0RQjDf1M">
+    <img src="https://i.ibb.co/Mx9D2RKV/Newsletter.png" alt="Newsletter" />
+  </a>
+</p>
+      
+              
+<p align="center">
+  💌 <strong> <span style="font-weight: bold;">Stay inspired! Subscribe to my LinkedIn newsletter for exclusive articles and updates.</span> </strong>
 </p>
 
 <p align="center">
@@ -256,8 +241,19 @@
   </a>
 </p>
 
+</td>
+
+<td> 
+<p align="center">
+  <a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/tw1c4ZQd/a-RTICLES-BY-ME.jpg" alt="Articles By Me" />
+  </a>
+</p>
 
 
+</td>
+</tr>
+</table>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"  align="left"> 🏆 GITHUB PROFILE TROPHY CABINET  </h1>
