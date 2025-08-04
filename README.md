@@ -44,8 +44,11 @@
     - 💬 Ask me about Programming Fundamentals.
     - 📫 How to reach me: ushanloshitha@gmail.com
         
+<p align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="200px" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" />
+</p>
 
- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="25%"> 
 
 
 <table align="center">
