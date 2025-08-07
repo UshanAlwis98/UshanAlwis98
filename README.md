@@ -155,7 +155,7 @@
   </td>
 
   <td>
-    <a href="https://ibb.co/gZbnwVvK"><img src="https://i.ibb.co/v4CtmYsn/e-Certificate.jpg" alt="e-Certificate" border="0"></a><br/>
+    <a href="https://ibb.co/gZbnwVvK"><img src="https://i.ibb.co/v4CtmYsn/e-Certificate.jpg" alt="e-Certificate" border="0"> </a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
   </td>
 
  
@@ -197,7 +197,7 @@
 
 <tr>
    <td>
-  <a href="https://ibb.co/ns7QKjzz"><img src="https://i.ibb.co/d0PkHDGG/Generative-AI-Fundamentals.jpg" alt="Generative-AI-Fundamentals" border="0"></a><br />     
+  <a href="https://ibb.co/ns7QKjzz"><img src="https://i.ibb.co/d0PkHDGG/Generative-AI-Fundamentals.jpg" alt="Generative-AI-Fundamentals" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
   </td>
 
    <td  >
