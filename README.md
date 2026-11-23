@@ -124,12 +124,12 @@
     <td align="center" width="110">
       <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" width="48" height="48" /><br>Playwright
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48" /><br>Apache JMeter
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=gherkin&theme=light" width="48" height="48" /><br>Cucumber
     </td>
@@ -145,15 +145,15 @@
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/mocha/8D6748" width="48" height="48" /><br>Mocha
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" /><br>Maven
     </td>
@@ -166,9 +166,6 @@
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL
     </td>
@@ -178,7 +175,6 @@
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code
     </td>
-    <td colspan="3"></td>
   </tr>
 </table>
 
