@@ -29,7 +29,7 @@
 
 
 <a href="https://git.io/typing-svg" style="text-decoration: none;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7E976&center=true&vCenter=true&width=1500&lines=Tech+enthusiastic+%7C%7C+A+full+stack+developer+%7C%7C+Data+Engineer" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7E976&center=true&vCenter=true&width=1500&lines=Tech+enthusiastic+%7C%7C+A+full+stack+developer+%7C%7C+Quality+Assurance+Engineer" 
        alt="Typing SVG" />
 </a>
 
@@ -39,9 +39,9 @@
 </div>
    <br>
 
-    - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
-    - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
-    - 💬 Ask me about Programming Fundamentals.
+    - 🔭 I am looking for Associate Quality Assurance Engineer Position
+    - 🌱 I’m currently working in Pearson as Quality Assurance Engineer as an intern
+    - 💬 Ask me about Testing.
     - 📫 How to reach me: ushanloshitha@gmail.com
         
 <p align="left">
