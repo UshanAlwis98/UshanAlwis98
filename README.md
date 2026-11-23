@@ -127,7 +127,7 @@
   <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48" /><br>Apache JMeter
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="48" height="48" /><br>Cucumber
+  <img src="https://skillicons.dev/icons?i=gherkin&theme=light" width="48" height="48" /><br>Cucumber
 </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" /><br>Selenium
