@@ -165,30 +165,29 @@
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" /><br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" /><br>MUI
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/mongo-db.png" width="48" height="48" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Light.svg" width="48" height="48" /><br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/96/numpy.png" width="48" height="48" /><br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/144/visual-studio-code-2019.png" width="48" height="48" /><br>VS Code
-    </td>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" /><br>Jira
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" /><br>IntelliJ IDEA
+  </td>
+</tr>
   </tr>
 </table>
 
