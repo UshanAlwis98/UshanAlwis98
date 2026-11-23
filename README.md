@@ -122,7 +122,7 @@
       <img src="https://skillicons.dev/icons?i=java&theme=light" width="48" height="48" /><br>Java
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=playwright&theme=light" width="48" height="48" /><br>Playwright
+      <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" width="48" height="48" /><br>Playwright
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48" /><br>Apache JMeter
