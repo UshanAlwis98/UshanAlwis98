@@ -33,10 +33,11 @@
        alt="Typing SVG" />
 </a>
 
+<br>
 <div align="center">
-<a href="https://ibb.co/zVSMJpB5"><img src="https://i.ibb.co/HTrSd6b2/Github-Profile-Image.png" alt="Github-Profile-Image" border="0"></a>  
+<a href="https://ibb.co/0R3LH6kn"><img src="https://i.ibb.co/B5RJ0Qmf/Linked-In-Banner-for-QA.jpg" alt="Linked-In-Banner-for-QA" border="0"></a>
 </div>
-   
+   <br>
 
     - 🔭 I am open for internship in |SE|QA|ML|Data Engineering|Machine Learning|
     - 🌱 I’m currently studying at the University of Moratuwa as a final-year undergraduate.
