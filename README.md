@@ -105,15 +105,33 @@
 > Tools and technologies that I have worked with and am interested in 
 <table border="12px" align="center">
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br>Java</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br>Javascript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" /><br>Redux</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" /><br>GraphQL API</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" /><br>Github</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" /><br>Rest API</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" /><br>React</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" /><br>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" /><br>TypeScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=playwright" width="48" height="48" /><br>Playwright
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48" /><br>Apache JMeter
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="48" height="48" /><br>Cucumber
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" /><br>Selenium
+</td>
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" /><br>Anaconda</td>
