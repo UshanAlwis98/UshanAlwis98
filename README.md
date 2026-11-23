@@ -133,17 +133,34 @@
   <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" /><br>Selenium
 </td>
 </tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" /><br>Anaconda</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML5</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS3</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" /><br>Prettier</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br>Tailwind</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" /><br>MySQL</td>
-<td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <br>Pandas</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" /><br>Scikit-learn</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br>Express.js</td>
-</tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" /><br>GitLab
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/testfully/4B9CD3" width="48" height="48" /><br>Testfully
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/mocha/8D6748" width="48" height="48" /><br>Mocha
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="48" height="48" /><br>AppSpector
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=appium" width="48" height="48" /><br>Appium
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" /><br>Maven
+</td>
+</table>tr
 <tr>
 <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" /><br>TensorFlow</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman</td>
