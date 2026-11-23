@@ -155,29 +155,28 @@
 
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" /><br>Maven
+      <img src="https://skillicons.dev/icons?i=maven&theme=light" width="48" height="48" /><br>Maven
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" height="48" /><br>Linux
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" height="48" /><br>MySQL
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" /><br>PostgreSQL
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" /><br>Jira
+      <img src="https://skillicons.dev/icons?i=jira&theme=light" width="48" height="48" /><br>Jira
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" height="48" /><br>VS Code
     </td>
   </tr>
 </table>
-
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;">📜 CERTIFICATE ZONE </h1>
