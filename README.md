@@ -103,91 +103,82 @@
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> TECHNICAL SKILLS </h1>
 
 > Tools and technologies that I have worked with and am interested in 
+
 <table border="1" align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" /><br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" /><br>TypeScript
     </td>
-    <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=java&theme=light" width="48" height="48" /><br>Java
-</td>
-<td align="center" width="96">
-  <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" width="48" height="48" /><br>Playwright
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48" /><br>Apache JMeter
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=gherkin&theme=light" width="48" height="48" /><br>Cucumber
-</td>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java&theme=light" width="48" height="48" /><br>Java
+    </td>
+    <td align="center" width="110">
+      <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg" width="48" height="48" /><br>Playwright
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="48" height="48" /><br>Apache JMeter
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=gherkin&theme=light" width="48" height="48" /><br>Cucumber
+    </td>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" /><br>Selenium
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" /><br>GitLab
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/testfully/4B9CD3" width="48" height="48" /><br>Testfully
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/mocha/8D6748" width="48" height="48" /><br>Mocha
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="48" height="48" /><br>AppSpector
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=appium" width="48" height="48" /><br>Appium
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" /><br>Maven
     </td>
   </tr>
 
   <tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" /><br>Jira
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" /><br>IntelliJ IDEA
-  </td>
-</tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>Postman
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/mocha/8D6748" width="48" height="48" /><br>Mocha
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" /><br>Maven
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><br>MongoDB
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" /><br>Jira
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code
+    </td>
+    <td colspan="3"></td>
   </tr>
 </table>
 
