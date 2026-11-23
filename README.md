@@ -195,60 +195,8 @@
 </p>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-<h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px; text-align:center;">
-   🎓 ACADEMIC PERFORMANCE
-</h1>
-
-<table  border="12px" align="center">
-  <tr>
-    <td>
-  <a href="https://ibb.co/5xkB3sMy">
-    <img src="https://i.ibb.co/h1cDN27j/My-GPA.jpg" alt="My-GPA" border="0" style="max-width:100%; height:auto;">
-  </a>
-      </td>
-    </tr>
-</table>
-
- 
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
-<h1 align="center">✍️ ARTICLES WRITTEN</h1>
-
-<table border="12px" >
-  <tr>
-    <td>
-<p align="center">
-  <a href="https://ibb.co/0RQjDf1M">
-    <img src="https://i.ibb.co/Mx9D2RKV/Newsletter.png" alt="Newsletter" />
-  </a>
-</p>
-      
-              
-<p align="center">
-  💌 <strong> <span style="font-weight: bold;">Stay inspired! Subscribe to my LinkedIn newsletter for exclusive articles and updates.</span> </strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/newsletters/7342881347318792193/" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Subscribe on LinkedIn">
-  </a>
-</p>
-
-</td>
-
-<td> 
-<p align="center">
-  <a href="https://imgbb.com/">
-    <img src="https://i.ibb.co/tw1c4ZQd/a-RTICLES-BY-ME.jpg" alt="Articles By Me" />
-  </a>
-</p>
-
-
-</td>
-</tr>
-</table>
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px;"  align="left"> 🏆 GITHUB PROFILE TROPHY CABINET  </h1>
 
