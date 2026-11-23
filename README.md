@@ -183,66 +183,16 @@
 
 
 
-<table  border="12px" align="center">
-<tr>
-  <td  >
-     <a href="https://ibb.co/WWTSTtzq"><img src="https://i.ibb.co/N64w4SNQ/e-Certificate.jpg" alt="e-Certificate" border="0" ></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  </td>
 
-  <td>
-    <a href="https://ibb.co/gZbnwVvK"><img src="https://i.ibb.co/v4CtmYsn/e-Certificate.jpg" alt="e-Certificate" border="0"> </a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  </td>
-
- 
-
-  <td >
-    <a href="https://ibb.co/Z16Z61z0"><img src="https://i.ibb.co/LhzGzhd3/Coursera-5-ETATQW8-MYNN.jpg" alt="Coursera-5-ETATQW8-MYNN" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  </td> 
-</tr>
-
-<tr>
-<td>
-  
-   <a href="https://ibb.co/Vc84bKSm"><img src="https://i.ibb.co/9kj5BMTt/Coursera-6-PI0-XUPP2-ASZ.jpg" alt="Coursera-6-PI0-XUPP2-ASZ" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-   
-  </td> 
-
-  <td>
-   <a href="https://ibb.co/qYpNppbT"><img src="https://i.ibb.co/QvMPMMsy/Coursera-DAB8-TAEE2-RUF.jpg" alt="Coursera-DAB8-TAEE2-RUF" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> 
-  </td> 
-
-  <td>
-    <a href="https://ibb.co/wFHvRsvw"><img src="https://i.ibb.co/mVsxG8xX/Coursera-QP55-PJ2-MPEQB.jpg" alt="Coursera-QP55-PJ2-MPEQB" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  </td> 
-</tr>
-
-<tr>
-  <td>
-    <a href="https://ibb.co/J4ZLzpH"><img src="https://i.ibb.co/3qKX0Fc/Coursera-H1-ITZ79-OBR7-K.jpg" alt="Coursera-H1-ITZ79-OBR7-K" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  </td>
-
-   <td>
-     <a href="https://ibb.co/7hfDPPw"><img src="https://i.ibb.co/BkpJbbX/Snowflake.jpg" alt="Snowflake" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
-  </td>
-
-  <td>
-     <a href="https://ibb.co/qMR0Qw32"><img src="https://i.ibb.co/ccNbndSs/Snowflake-Badge-2.jpg" alt="Snowflake-Badge-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
-  </td>
-</tr>
-
-<tr>
-   <td>
-  <a href="https://ibb.co/ns7QKjzz"><img src="https://i.ibb.co/d0PkHDGG/Generative-AI-Fundamentals.jpg" alt="Generative-AI-Fundamentals" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />     
-  </td>
-
-   <td  >
-    <a href="https://ibb.co/dJrYL0Kr"><img src="https://i.ibb.co/BKtMrVst/Coursera-JEXWWF70-KIWY.jpg" alt="Coursera-JEXWWF70-KIWY" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-  </td>
-</tr>
- 
-  
-</table>
-
+<p align="center">
+  <a href="https://ibb.co/TSs2TyB">
+    <img src="https://i.ibb.co/j2Sf5tv/ISTQBCertificate.png"
+         alt="ISTQB Certified Tester Foundation Level Certificate"
+         width="600">
+  </a>
+  <br>
+  <strong>ISTQB Certified Tester – Foundation Level (CTFL)</strong>
+</p>
 
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <h1 style="font-size:24px; font-family:Arial; font-weight:bold; letter-spacing:5px; text-align:center;">
