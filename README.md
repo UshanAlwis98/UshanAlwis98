@@ -25,7 +25,7 @@
        data-target="animated-image.originalImage">
    </div>
 </p>
-
+<br/>
 
 
 <a href="https://git.io/typing-svg" style="text-decoration: none;">
